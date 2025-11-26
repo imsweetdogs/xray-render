@@ -1,6 +1,6 @@
 # 🚀 VLESS-сервер на Render.com by filin_cprt 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/imsweetdogs/xray-render)
 
 Разверните свой собственный VLESS/VPN-сервер на бесплатном облаке Render.com с поддержкой **WebSocket** и автоматическим **TLS**.  
 **Работает в 2025 году** · **Обход блокировок** · **100GB бесплатного трафика**
